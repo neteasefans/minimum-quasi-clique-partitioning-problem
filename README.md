@@ -1,6 +1,6 @@
 # An iterated local search for minimum quasi clique partitioning problem
 
-The three sets of 321 benchmark instances, including 171 Small Set instances, 72 Large Sparse Set instances and 78 Large Dense Set instances used in our draft titled with "An iterated local search for minimum quasi clique partitioning problem" are mainly taken from the DIMACS Challenges, and networks from Moviegalaxies data set etc. [refer to [2]]. To facilitate the further research, we upload the instances here.
+The three sets of 321 benchmark instances, including 171 Small Set instances, 72 Large Sparse Set instances and 78 Large Dense Set instances used in our draft titled with "An iterated local search for minimum quasi clique partitioning problem" are mainly taken from the DIMACS Challenges, and networks from Moviegalaxies data set etc. [refer to [2]]. Each instance corresponds to an input graph and a required density value γ. To facilitate the further research, we upload the instances here.
 
 The source code of the proposed ILS algorithm will be made available upon the publication of the paper.
 
