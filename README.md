@@ -9,3 +9,5 @@ Reference papers to the minimum quasi clique partitioning problem (MQCPP):
 [1] Rafael A Melo, Celso C Ribeiro, and Jose A Riveaux. The minimum quasi-clique partitioning problem: Complexity, formulations, and a computational study. Information Sciences, 612:655–674, 2022.
 
 [2] Rafael A Melo, Celso C Ribeiro, and Jose A Riveaux. A biased random-key genetic algorithm for the minimum quasi-clique partitioning problem. Annals of Operations Research, pages 1–33, 2023.
+
+Please cite our work as: Zhou, Q., Zhu, T., Wu, Q., Jiang, Z. Z., & Wang, W. (2025). An efficient iterated local search for the minimum quasi-clique partitioning problem. Computers & Operations Research, 179, 107033.
