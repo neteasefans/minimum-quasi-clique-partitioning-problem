@@ -1718,9 +1718,11 @@ public static Cicque nonMoveVClique(){
         String ss = args[0];
         String[] testParam = ss.split("/");
 
-        String t = testParam[2];
+		String[] t1 = ss.split("\\\\");	
+        String t = t1[t1.length-1];
+        //String t = testParam[2];
         //new
-//        String t= ss;
+		//        String t= ss;
 
         if(maxList_dense_4.contains(t)){
             gammaCount = 3 ;
