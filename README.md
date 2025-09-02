@@ -4,6 +4,20 @@ The three sets of 321 benchmark instances, including 171 Small Set instances, 72
 
 The source code given in 'src' directory implements the proposed method described in our paper.
 
+** Instructions to use the source code of ILS
+
+*** To compile:
+
+q.zhou$ javac Main.java Improve_new.java Clique.java AdEcount.java
+
+q.zhou$
+
+*** To run:
+
+q.zhou$ java -cp . Main instanceName outputFile
+
+(where -cp . indicates the current working directory, Main includes the main function, instanceName is the instance file and outputFile records the output information.)
+
 Reference papers to the minimum quasi clique partitioning problem (MQCPP):
 
 [1] Rafael A Melo, Celso C Ribeiro, and Jose A Riveaux. The minimum quasi-clique partitioning problem: Complexity, formulations, and a computational study. Information Sciences, 612:655–674, 2022.
